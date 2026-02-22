@@ -21,8 +21,8 @@ Es una pagina web HTML con estilos CSS para que los usuarios puedan suscribirse 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/Emmanuel2508/Ejercicio-1-Newsletter
+Deploy: https://emmanuel2508.github.io/Ejercicio-1-Newsletter/#
 ---
 
 ## 📝 Reflexión
